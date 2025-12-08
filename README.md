@@ -2,9 +2,20 @@
 
 <h1 align = "center">I'm a freshman in highschool and am currently learning typescript. My pronouns are He/Him. A fun fact about me is I like sports, my favorites are basketball and volleyball. If you have any questions for me you can email at bryan.nelson@stu.ocsb.ca
 
-<h1 align = "center"> Language
+- I'm currently working on n/a
 
-![download](https://github.com/user-attachments/assets/4530661b-59d8-412e-8b15-9501f0bedef9)
+- I'm looking to colab on n/a
+
+- I'm looking for help with n/a
+
+- I'm currently learning about typescript
+
+- if you have anything to ask me email me at bryan.nelson@stu.ocsb.ca
+
+<h1 align = "center"> Language
+<img width="159" height="148" alt="download" src="https://github.com/user-attachments/assets/9f98bab9-bc5b-4f5b-9efb-f127d77fcea7" />
+
+
 
 
 
