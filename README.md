@@ -1,6 +1,11 @@
-## Hi there I'm Bryan 👋
+<h1 align = "center">## Hi there I'm Bryan 👋
 
-I'm a freshman in highschool and am currently learning typescript. My pronouns are He/Him. A fun fact about me is I like sports, my favorites are basketball and volleyball. If you have any questions for me you can email at bryan.nelson@stu.ocsb.ca
+<h1 align = "center">I'm a freshman in highschool and am currently learning typescript. My pronouns are He/Him. A fun fact about me is I like sports, my favorites are basketball and volleyball. If you have any questions for me you can email at bryan.nelson@stu.ocsb.ca
+
+<h1 align = "center"> Language
+
+![download](https://github.com/user-attachments/assets/4530661b-59d8-412e-8b15-9501f0bedef9)
+
 
 
 <!--
