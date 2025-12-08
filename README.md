@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there I'm Bryan 👋
+
+I'm a freshman in highschool and am currently learning typescript. My pronouns are He/Him. A fun fact about me is I like sports, my favorites are basketball and volleyball. If you have any questions for me you can email at bryan.nelson@stu.ocsb.ca
+
 
 <!--
 **Bryan-Nelson-2/Bryan-Nelson-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
