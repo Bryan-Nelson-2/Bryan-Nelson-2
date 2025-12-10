@@ -16,7 +16,8 @@
 
 <h1 align = "center"> Language
 <img width="159" height="148" alt="download" src="https://github.com/user-attachments/assets/9f98bab9-bc5b-4f5b-9efb-f127d77fcea7" />
-![download](https://github.com/user-attachments/assets/ca31e980-9b36-4f5f-9ad8-0a05171a1b74)
+<img width="197" height="148" alt="image" src="https://github.com/user-attachments/assets/67e71841-8549-4e12-aaa3-57013c3c52dc" />
+
 
 
 
