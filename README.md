@@ -14,7 +14,7 @@
 
 - if you have anything to ask me email me at bryan.nelson@stu.ocsb.ca
 
-<h1 align = "center"> Language
+<h1 align = "center">
 <img width="159" height="148" alt="download" src="https://github.com/user-attachments/assets/9f98bab9-bc5b-4f5b-9efb-f127d77fcea7" />
 <img width="197" height="148" alt="image" src="https://github.com/user-attachments/assets/67e71841-8549-4e12-aaa3-57013c3c52dc" />
 
