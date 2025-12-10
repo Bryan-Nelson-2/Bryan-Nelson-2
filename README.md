@@ -1,10 +1,10 @@
 <h1 align = "center">## Hi there I'm Bryan 👋
 
-<h1 align = "center">I'm a freshman in highschool and am currently learning typescript. My pronouns are He/Him. A fun fact about me is I like sports, my favorites are basketball and volleyball. If you have any questions for me you can email at bryan.nelson@stu.ocsb.ca
-
+<h1 align = "center">I'm a freshman in highschool and am currently learning typescript. I am excited to see where coding is able to assist me in my future endeavors.
+  
   <h1 align = "left">
     
-- I'm currently working on n/a
+- I'm currently working on installing linux on an elitedesk 800 using an ethernet cable that I cut, straightened, ordered, and crimped
 
 - I'm looking to colab on n/a
 
@@ -16,6 +16,8 @@
 
 <h1 align = "center"> Language
 <img width="159" height="148" alt="download" src="https://github.com/user-attachments/assets/9f98bab9-bc5b-4f5b-9efb-f127d77fcea7" />
+![download](https://github.com/user-attachments/assets/ca31e980-9b36-4f5f-9ad8-0a05171a1b74)
+
 
 
 
